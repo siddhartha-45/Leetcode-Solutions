@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Union Find
 |  |
@@ -64,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
