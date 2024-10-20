@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Depth-First Search
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
