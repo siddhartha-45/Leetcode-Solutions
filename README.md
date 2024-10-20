@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
