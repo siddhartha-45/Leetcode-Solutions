@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
