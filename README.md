@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
