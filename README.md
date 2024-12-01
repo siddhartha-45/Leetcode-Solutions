@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2645-pass-the-pillow](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2645-pass-the-pillow](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
 |  |
 | ------- |
