@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |
 | ------- |
