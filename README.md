@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Prefix Sum
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String Matching
 |  |
 | ------- |
