@@ -25,14 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Array
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
