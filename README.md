@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
