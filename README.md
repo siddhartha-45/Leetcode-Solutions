@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1205-defanging-an-ip-address](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
