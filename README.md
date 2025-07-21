@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [1325-path-with-maximum-probability](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
