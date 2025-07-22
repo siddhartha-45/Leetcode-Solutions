@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1031-add-to-array-form-of-integer](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0868-push-dominoes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1205-defanging-an-ip-address](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
