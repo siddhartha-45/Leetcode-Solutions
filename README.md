@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [1325-path-with-maximum-probability](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1306-minimum-absolute-difference](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
