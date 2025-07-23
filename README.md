@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1813-maximum-erasure-value](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
