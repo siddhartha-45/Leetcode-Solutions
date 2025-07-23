@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0868-push-dominoes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
