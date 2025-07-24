@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1970-sorting-the-sentence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1970-sorting-the-sentence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2164-two-best-non-overlapping-events](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
