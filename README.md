@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1954-replace-all-digits-with-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
