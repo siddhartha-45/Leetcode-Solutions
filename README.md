@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1256-rank-transform-of-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1256-rank-transform-of-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1256-rank-transform-of-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
