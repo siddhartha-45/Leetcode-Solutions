@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0561-array-partition) |
