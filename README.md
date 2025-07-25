@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
