@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0944-smallest-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0841-shortest-distance-to-a-character](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
