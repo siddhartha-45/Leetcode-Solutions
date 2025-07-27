@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1036-rotting-oranges](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
