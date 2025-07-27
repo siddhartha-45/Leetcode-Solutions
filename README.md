@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0749-shortest-completing-word](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0749-shortest-completing-word](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0906-walking-robot-simulation](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0749-shortest-completing-word](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
