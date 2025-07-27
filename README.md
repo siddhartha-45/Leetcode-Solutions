@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0575-distribute-candies](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
