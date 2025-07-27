@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1306-minimum-absolute-difference) |
