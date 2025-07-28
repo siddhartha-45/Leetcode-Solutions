@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0749-shortest-completing-word](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0749-shortest-completing-word) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3427-special-array-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Linked List
