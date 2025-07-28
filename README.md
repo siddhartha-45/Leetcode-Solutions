@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0841-shortest-distance-to-a-character](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0868-push-dominoes) |
