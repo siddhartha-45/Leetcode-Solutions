@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Geometry
 |  |
 | ------- |
