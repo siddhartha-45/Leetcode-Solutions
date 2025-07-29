@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0944-smallest-range-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Geometry
 |  |
 | ------- |
