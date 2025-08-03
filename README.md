@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1954-replace-all-digits-with-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
