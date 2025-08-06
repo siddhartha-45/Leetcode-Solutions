@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
