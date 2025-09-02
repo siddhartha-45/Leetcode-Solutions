@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -575,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
