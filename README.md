@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
