@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Trie
 |  |
