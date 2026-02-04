@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/siddhartha-45/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## String
 |  |
 | ------- |
